@@ -1,0 +1,23 @@
+{
+  "name": "actualloginweb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucaszhu31/loginweb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucaszhu31/loginweb/issues"
+  },
+  "homepage": "https://github.com/lucaszhu31/loginweb#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
